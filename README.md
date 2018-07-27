@@ -50,4 +50,4 @@ Not that beautiful, but it does a memcpy.
 * Python >= 3
 * Unicorn >= 1.0.0
 
-Tested of both windows 10 and Ubuntu 16.04
+Tested on both windows 10 and Ubuntu 16.04
