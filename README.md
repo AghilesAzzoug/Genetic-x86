@@ -30,8 +30,8 @@ Format : ADDRESS CODE
 30001 movsb byte ptr es:[edi], byte ptr [esi]
 30002 inc eax
 30003 pop esp
-30002 inc eax
-30004 jmp 0x30001
+30004 inc eax
+30005 jmp 0x30001
 ...
 ```
 ```
