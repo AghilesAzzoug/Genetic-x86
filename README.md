@@ -7,14 +7,14 @@
 * Using genetic algorithm 
     * k-tournament selection
     * 2 points crossover 
-    * Bit and Byte mutation
+    * Bit and Byte mutations
 
-* Using unicorn CPU emulator
+* Using Unicorn CPU emulator
 
 # Output examples 
 By default the input address is in ESI, the output address in EDI and its length in ECX.
 
-Here are some outputs of the this script
+Here are some outputs of this script
 ```
 Format : ADDRESS CODE
 ```
