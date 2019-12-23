@@ -51,3 +51,6 @@ Not that beautiful, but it does a memcpy.
 * Unicorn >= 1.0.0
 
 Tested on both windows 10 and Ubuntu 16.04
+
+Inspired by https://github.com/gynvael, who produces great content on Youtube !
+
